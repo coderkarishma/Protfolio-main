@@ -18,7 +18,7 @@ const ProjectDetails = [
     image:"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230109135607/Types-of-Insurances-1.png",
     title: "AI-Driven-Medical-Insurance-Premium-Prediction Go-Dex",
     text: "This project aims to develop a machine learning model that accurately predicts medical insurance premiums based on personal health and lifestyle data. Traditional insurance premium calculations are often manual, time-consuming, and inconsistent. By leveraging AI, we can create a more accurate, efficient, and transparent pricing system.",
-    site: null,
+    site: "https://aidrivenmedicalinsurancepremiumprediction-7xfjvyjgmxnxzrucu8lq.streamlit.app/",
     code: "https://github.com/coderkarishma/AI-Driven-Medical-Insurance-Premium-Prediction",
   },
   {
